@@ -1,7 +1,7 @@
 # paper_classification_v2
 
 Paper Classification AI
-This is an implementation of paper classification module designed for combinatorial project with professor Lee Arum. 
+This is an implementation of paper classification module designed for combinatorial project with professor Arum Lee. 
 ALthoguh the original code is based on An Ensemble of Simple Convolutional Neural Network Models for MNIST Digit Recognition, dataset is self-made.
 
 ## Environment 
@@ -19,4 +19,4 @@ torchvision               0.13.1
 Training can be done by running the main.py file with python.
 Other baseline models can be run by giving argument. ex) to run resnet50, give --models "resnet". Full code is available at sleep.sh file.
 
-Detailed configuration can be found in paramparser.py file. 
+Detailed configuration can be found in param_parser.py file. 
