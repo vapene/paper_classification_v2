@@ -1,0 +1,2 @@
+to process from raw to proccessed,
+refer to https://medium.com/analytics-vidhya/create-your-own-real-image-dataset-with-python-deep-learning-b2576b63da1e
