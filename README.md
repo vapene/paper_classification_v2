@@ -1,8 +1,8 @@
-# paper_classification_v2
+# Classification of Contamination Patterns of Recyclable Paper through a Hierarchical Ensemble Model
 
 Paper Classification AI
-This is an implementation of paper classification module designed for combinatorial project with professor Arum Lee. 
-ALthoguh the original code is based on An Ensemble of Simple Convolutional Neural Network Models for MNIST Digit Recognition, dataset is self-made.
+This is an implementation of paper classification module designed for combinatorial project. 
+The original code is based on An Ensemble of Simple Convolutional Neural Network Models for MNIST Digit Recognition, dataset is self-made.
 
 ## Environment 
 Below is a list of notable packages and their versions.
