@@ -1,5 +1,3 @@
-"""Getting the parameters from the commandline."""
-
 import argparse
 from texttable import Texttable
 
